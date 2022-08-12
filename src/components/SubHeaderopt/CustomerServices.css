@@ -1,0 +1,9 @@
+.outer{
+    border: 2px solid red;
+    background-color: aquamarine;
+    width: 200px;
+    margin:10px;
+    height: 500px;
+    display: flex;
+    flex-wrap: wrap;
+}
